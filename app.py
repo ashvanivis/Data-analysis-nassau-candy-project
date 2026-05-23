@@ -104,7 +104,7 @@ product = st.sidebar.text_input(
 # ---------------- LOAD DATA ---------------- #
 
 df = pd.read_csv(
-    r"C:\Users\hp\Videos\project\nassau_candy.csv"
+    r"nassau_candy.csv"
 )
 
 # ---------------- DATE CONVERSION ---------------- #
